@@ -1,3 +1,26 @@
+## rosidl_dds (jazzy) - 0.11.1-4
+
+The packages in the `rosidl_dds` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rosidl_dds --override-release-repository-push-url git@github.com:revyos-ros/rosidl_dds-release.git` on `Thu, 13 Jun 2024 03:14:35 -0000`
+
+The `rosidl_generator_dds_idl` package was released.
+
+Version of package(s) in repository `rosidl_dds`:
+
+- upstream repository: https://github.com/ros2/rosidl_dds.git
+- release repository: https://github.com/revyos-ros/rosidl_dds-release.git
+- rosdistro version: `0.11.1-3`
+- old version: `0.11.1-3`
+- new version: `0.11.1-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_dds (rolling) - 0.12.0-1
 
 The packages in the `rosidl_dds` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rosidl_dds --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 19:25:08 -0000`
